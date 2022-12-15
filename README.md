@@ -11,3 +11,7 @@ I'm a web developer from Brazil currently improving my skills with PHP Laravel!!
     <img src="https://skillicons.dev/icons?i=git,php,laravel,mysql,vue,html,css,bootstrap,javascript" />
   </a>
 </p>
+
+## Last repository worked: 
+
+[Alucar](https://github.com/GiovanniMP/TrabalhoDiplomacao-Alucar)
